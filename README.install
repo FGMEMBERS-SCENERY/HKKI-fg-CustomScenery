@@ -88,9 +88,9 @@ was inconvenient, or because I did wanted to see mayhem with my own eyes.
 To solve.
 
 1. Go to your terrasync folder
-2. Enter the Terrain folder and completely delete the subfolder w120n30
+2. Enter the Terrain folder and completely delete the subfolder e030n00
 3. Go back to you terrasync folder
-4. Enter the Objects folder and completely delete the subfolder w120n30
+4. Enter the Objects folder and completely delete the subfolder w030n00
 5. Relaunch flightgear into HKKI to re-download your terrasync packages cleanly
 
 Have Fun Flying,
